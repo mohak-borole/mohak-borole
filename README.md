@@ -20,7 +20,7 @@
 <a href="https://kaggle.com/mohakvborole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohak v borole" height="30" width="40" /></a>
 <a href="https://instagram.com/mohak_borole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohak_borole" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohak_borole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohak_borole" height="30" width="40" /></a>
-<a href="https://discord.gg/mohakborole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohakBorole#6650" height="30" width="40" /></a>
+<a href="https://discord.gg/mohakborole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6650" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
